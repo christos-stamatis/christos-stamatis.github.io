@@ -1,6 +1,6 @@
 ---
 layout: default
-img: chem_eng.JPG
+img: 
 category: Education
 title: PhD in Chemical and Environmental Engineering
 description: 
