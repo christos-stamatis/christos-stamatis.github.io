@@ -23,10 +23,7 @@ gems:
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - icon: github
-    title: github
-    url: https://github.com/dcassol  
+social:  
   - icon: envelope-o
     title: email
     url: mailto:cstam001@ucr.edu
