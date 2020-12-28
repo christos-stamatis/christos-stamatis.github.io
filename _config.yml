@@ -29,17 +29,23 @@ social:
     url: https://github.com/dcassol  
   - icon: envelope-o
     title: email
-    url: mailto:danicassol@gmail.com
+    url: mailto:cstam001@ucr.edu
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
-  - icon: file-pdf-o
-    title: CV
-    url: img/CassolDanielaCV.pdf
+    url: https://www.linkedin.com/in/christos-stamatis-828668a5/
+  - icon: github
+    title: GitHub
+    url: https://github.com/christos-stamatis
+  - icon: gitlab
+    title: GitLab
+    url: https://gitlab.com/christos_stamatis
+#  - icon: file-pdf-o
+#    title: CV
+#    url: img/CassolDanielaCV.pdf
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
   - icon: twitter
     title: twitter
-    url: https://twitter.com/danicassol
+    url: https://twitter.com/chris_stamatis
 
