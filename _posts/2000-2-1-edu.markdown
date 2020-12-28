@@ -1,6 +1,6 @@
 ---
 layout: default
-img: under.PNG
+img: uder.PNG
 category: Education
 title: Diploma in Chemical Engineering
 description: |
