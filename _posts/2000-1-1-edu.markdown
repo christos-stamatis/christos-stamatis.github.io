@@ -3,10 +3,10 @@ layout: default
 img: 
 category: Education
 title: PhD in Chemical and Environmental Engineering
-description: 2016-currently
+description: 
 ---
 
-* __2012 - 2016__
+* __2012 - current__
 * University of California, Riverside, USA
 * Advisor: Dr. Kelley Barsanti
 
