@@ -2,13 +2,12 @@
 layout: default
 img: Master.JPG
 category: Education
-title: Master's in Plant Physiology
+title: Diploma in Chemical Engineering
 description: |
 ---
 
-* __2010 - 2012__
-* Federal University of Viçosa, Viçosa, Brazil
-* Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
-* Advisor: Dr. José Cambraia
-* Scholarship from: CNPq
+* __2011 - 2016__
+* University of Patras, Patras, Greece
+* Undegraduate thesis: Large scale simulation of air pollution over Patras with 1x1 resolution using PMCAMx air quality model.
+* Advisor: Dr. Spyros Pandis
 
